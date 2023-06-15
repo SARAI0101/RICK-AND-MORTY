@@ -136,3 +136,9 @@ section {
     color: #535353;
     text-decoration: none;
 }
+
+.card {
+    background: rgba(60, 62, 68);
+    padding: 15px;
+    color: #fff;
+}
